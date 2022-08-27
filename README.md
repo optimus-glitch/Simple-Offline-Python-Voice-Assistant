@@ -5,7 +5,7 @@
 
 <h1>Usage</h1>
 
-clone repository: <code>git clone </code>
+clone repository: <code>git clone https://github.com/optimus-glitch/Simple-Offline-Python-Voice-Assistant.git</code>
 
 <h2>Open terminal of choice e.g cmd</h2>
 <h2>navigate to cloned repo location</h2>
