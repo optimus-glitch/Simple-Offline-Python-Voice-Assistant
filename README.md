@@ -8,9 +8,11 @@
 clone repository: <code>git clone https://github.com/optimus-glitch/Simple-Offline-Python-Voice-Assistant.git</code>
 
 <h2>Open terminal of choice e.g cmd</h2>
-<h2>navigate to cloned repo location</h2>
 
-install requirements: <code>pip install -r requirements.txt</code>
+<h3>navigate to cloned repo location</h3>
+<code>cd Simple-Offline-Python-Voice-Assistant</code>
+<h3>install requirements</h3>
+<code>pip install -r requirements.txt</code>
 
 <h2>That's it!</h2>
 <h2>Run the main.py file</h2>
